@@ -9,7 +9,7 @@ INSTRUCTIONS
 
 The import is used to port a VIVO instance to a Grid by command line.
 
-java -jar agVivoImport.jar <VIVO instance URL> <user name> <password>
+java -jar agVivoImport.jar VIVOInstanceURL user_name password
 
 eg. java -jar agVivoImport.jar  http://vivo.iu.edu/individual/IndianaUniversity/IndianaUniversity.rdf "Alberto Nogales" "password"
 
